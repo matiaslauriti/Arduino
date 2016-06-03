@@ -1,23 +1,29 @@
-#include <OneWire.h>
-#include <DallasTemperature.h>
+int led = 13;
 
-//the pin you connect the ds18b20 to
-#define DS18B20 3
+void setup() {
 
-OneWire ourWire(DS18B20);
-DallasTemperature sensors(&ourWire);
-
-void setup()
-{
-Serial.begin(9600);
-delay(1000);
-//start reading
-sensors.begin();
+  pinMode(led, OUTPUT);
+  
+  Serial.begin(57600);
+  while (!Serial) {
+    ; // wait for serial port to connect. Needed for native USB port only
+  }
+  
 }
 
-void loop()
-{
-//read temperature and output via serial
-sensors.requestTemperatures();
-Serial.println(sensors.getTempCByIndex(0));
+void loop() {
+  
+  if(Serial.available() > 0) {
+
+    char recived = Serial.read();
+    
+    if(recived == 'E')
+      digitalWrite(led, HIGH);
+    else if(recived == 'A')
+      digitalWrite(led, LOW);
+    else if(recived == 'O')
+      Serial.print(digitalRead(led));
+      
+  }
+
 }

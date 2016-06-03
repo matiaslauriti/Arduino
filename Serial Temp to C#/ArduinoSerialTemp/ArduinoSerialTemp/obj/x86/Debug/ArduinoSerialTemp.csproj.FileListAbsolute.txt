@@ -6,3 +6,12 @@ F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\
 F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.exe
 F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.pdb
 F:\electronics\arduino\CSharp\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.exe.config
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.exe.config
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.exe
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.pdb
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.csprojResolveAssemblyReference.cache
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.Form1.resources
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.Properties.Resources.resources
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\obj\x86\Debug\ArduinoSerialTemp.csproj.GenerateResource.Cache
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.exe
+C:\Users\lauri\Desktop\Serial Temp to C#\ArduinoSerialTemp\ArduinoSerialTemp\bin\Debug\ArduinoSerialTemp.pdb
