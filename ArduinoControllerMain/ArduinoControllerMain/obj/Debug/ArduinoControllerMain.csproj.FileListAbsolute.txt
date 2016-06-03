@@ -1,0 +1,6 @@
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\ArduinoControllerMain\obj\Debug\ArduinoControllerMain.csprojResolveAssemblyReference.cache
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\ArduinoControllerMain\bin\Debug\ArduinoControllerMain.dll.config
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\ArduinoControllerMain\bin\Debug\ArduinoControllerMain.dll
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\ArduinoControllerMain\bin\Debug\ArduinoControllerMain.pdb
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\ArduinoControllerMain\obj\Debug\ArduinoControllerMain.dll
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\ArduinoControllerMain\obj\Debug\ArduinoControllerMain.pdb

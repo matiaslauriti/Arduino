@@ -1,0 +1,8 @@
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\Archivos\Desarrollo\C#\Arduino\ArduinoControllerMain\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
